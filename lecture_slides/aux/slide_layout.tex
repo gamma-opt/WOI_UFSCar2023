@@ -1,0 +1,77 @@
+% Slide theme definitions
+\usetheme{default}
+
+\setbeamertemplate{navigation symbols}{}
+\definecolor{blue}{rgb}{0.23,0.58,0.89}
+\definecolor{green}{rgb}{0.24,0.64,0.30}
+
+\usecolortheme[rgb={0.23,0.58,0.89}]{structure}
+\setbeamertemplate{itemize subitem}{--}
+
+\setbeamercolor{alerted text}{fg=orange}
+\setbeamertemplate{theorems}[numbered] 
+
+\setbeamertemplate{footline} {
+	\begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,leftskip=.4cm,rightskip=.4cm]{structure}
+		\scriptsize  fabricio.oliveira@aalto.fi
+		\hfill
+		\scriptsize \insertsection
+		\hfill
+		{\insertframenumber /\inserttotalframenumber}
+	\end{beamercolorbox}
+	\vskip 0.25cm
+}
+
+\AtBeginSection[] 
+{ 
+	\begin{frame}<beamer> 
+		\frametitle{Outline of this lecture} 
+		\tableofcontents[currentsection]  
+	\end{frame} 
+} 
+
+\setlength{\parskip}{0.5em}
+
+% Packages
+\usepackage{
+	graphicx,
+	amsmath,
+	amssymb,
+	tikz,
+	psfrag,
+	color,
+	blkarray,
+	algorithm, 
+	algorithmicx,
+	algpseudocode,
+	caption,
+	colortbl,
+	subcaption
+}
+
+\usetikzlibrary{
+   intersections, arrows.meta,
+   automata,er,calc,
+   backgrounds,
+   mindmap,folding,
+   patterns,
+   decorations.markings,
+   fit,snakes,
+   shapes,matrix,
+   positioning,
+   shapes.geometric,
+   arrows,through
+}
+
+\captionsetup[figure]{font=footnotesize, skip=0pt}
+
+% Environment for theorems spanning two slides
+\makeatletter
+\newenvironment<>{longproof}[1][\proofname]{%
+    \par
+    \def\insertproofname{#1\@addpunct{.}}%
+    \usebeamertemplate{proof begin}#2}
+  {\usebeamertemplate{proof end}}
+\makeatother
+
+\newtheorem{proposition}{Proposition}[theorem]

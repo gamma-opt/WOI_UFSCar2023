@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{What is optimisation?}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Mathematical programming and optimisation}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Types of mathematical optimisation models}{8}{0}{1}
+\beamer@sectionintoc {2}{Linear programming applications}{15}{0}{2}
+\beamer@subsectionintoc {2}{1}{Resource allocation}{16}{0}{2}
+\beamer@subsectionintoc {2}{2}{Transportation problem}{25}{0}{2}
+\beamer@subsectionintoc {2}{3}{Production planning (lot-sizing)}{33}{0}{2}
+\beamer@sectionintoc {3}{The geometry of LPs - graphical method}{38}{0}{3}

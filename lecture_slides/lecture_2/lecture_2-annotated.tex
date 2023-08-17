@@ -1,0 +1,43 @@
+\documentclass[xcolor=dvipsnames, mathserif, aspectratio=149]{beamer}
+
+% Layout and definitions
+\usepackage{import}
+\import{../../aux/}{slide_layout.tex}
+\import{../../aux/}{definitions.tex}
+
+%% Front page and content
+\title{Optimisation under uncertainty \\ Lecture 2/4}
+\date{\today}
+\author{Fabricio Oliveira}
+\institute{Systems Analysis Laboratory \\ Department of Mathematics and Systems Analysis \vskip 0.25cm 
+           Aalto University\\
+           School of Science}
+
+%\geometry{left=1cm} 
+%\geometry{right=3cm}
+
+
+%% Begin of the file
+\begin{document}
+
+\frame{
+    \thispagestyle{empty}
+    \titlepage
+}
+
+\addtocounter{framenumber}{-1}
+
+
+\begin{frame}<beamer> 
+	\frametitle{Outline of this lecture} 
+	\tableofcontents
+%	\thispagestyle{empty}
+\end{frame} 
+
+\addtocounter{framenumber}{-1}
+
+
+%% Slide content
+\include{lecture_2-slide_content.tex}
+
+\end{document}
