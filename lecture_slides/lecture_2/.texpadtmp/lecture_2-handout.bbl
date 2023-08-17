@@ -1,0 +1,98 @@
+\begin{thebibliography}{}
+
+\bibitem[Condeixa et~al., 2020]{condeixa2020wasserstein}
+Condeixa, L., Oliveira, F., and Siddiqui, A.~S. (2020).
+\newblock Wasserstein-distance-based temporal clustering for capacity-expansion planning in power systems.
+\newblock In {\em 2020 International Conference on Smart Energy Systems and Technologies (SEST)}, pages 1--6. IEEE.
+
+\bibitem[Dillon et~al., 2017]{dillon2017two}
+Dillon, M., Oliveira, F., and Abbasi, B. (2017).
+\newblock A two-stage stochastic programming model for inventory management in the blood supply chain.
+\newblock {\em International Journal of Production Economics}, 187:27--41.
+
+\bibitem[Dupa{\v{c}}ov{\'a}, 1990]{dupavcova1990stability}
+Dupa{\v{c}}ov{\'a}, J. (1990).
+\newblock Stability and sensitivity-analysis for stochastic programming.
+\newblock {\em Annals of operations research}, 27:115--142.
+
+\bibitem[Dupa{\v{c}}ov{\'a} et~al., 2003]{dupavcova2003scenario}
+Dupa{\v{c}}ov{\'a}, J., Gr{\"o}we-Kuska, N., and R{\"o}misch, W. (2003).
+\newblock Scenario reduction in stochastic programming.
+\newblock {\em Mathematical programming}, 95:493--511.
+
+\bibitem[Fern\'andez~P\'erez et~al., 2018]{fernandez2018optimizing}
+Fern\'andez~P\'erez, M.~A., Oliveira, F., and Hamacher, S. (2018).
+\newblock Optimizing workover rig fleet sizing and scheduling using deterministic and stochastic programming models.
+\newblock {\em Industrial \& engineering chemistry research}, 57(22):7544--7554.
+
+\bibitem[Heitsch and R{\"o}misch, 2003]{heitsch2003scenario}
+Heitsch, H. and R{\"o}misch, W. (2003).
+\newblock Scenario reduction algorithms in stochastic programming.
+\newblock {\em Computational optimization and applications}, 24:187--206.
+
+\bibitem[Heitsch and R{\"o}misch, 2007]{heitsch2007note}
+Heitsch, H. and R{\"o}misch, W. (2007).
+\newblock A note on scenario reduction for two-stage stochastic programs.
+\newblock {\em Operations Research Letters}, 35(6):731--738.
+
+\bibitem[Heitsch and R{\"o}misch, 2009]{heitsch2009scenario}
+Heitsch, H. and R{\"o}misch, W. (2009).
+\newblock Scenario tree modeling for multistage stochastic programs.
+\newblock {\em Mathematical Programming}, 118:371--406.
+
+\bibitem[Heitsch et~al., 2006]{heitsch2006stability}
+Heitsch, H., R{\"o}misch, W., and Strugarek, C. (2006).
+\newblock Stability of multistage stochastic programs.
+\newblock {\em SIAM Journal on Optimization}, 17(2):511--525.
+
+\bibitem[H{\o}yland et~al., 2003]{hoyland2003heuristic}
+H{\o}yland, K., Kaut, M., and Wallace, S.~W. (2003).
+\newblock A heuristic for moment-matching scenario generation.
+\newblock {\em Computational optimization and applications}, 24:169--185.
+
+\bibitem[H{\o}yland and Wallace, 2001]{hoyland2001generating}
+H{\o}yland, K. and Wallace, S.~W. (2001).
+\newblock Generating scenario trees for multistage decision problems.
+\newblock {\em Management science}, 47(2):295--307.
+
+\bibitem[Kaut, 2021]{kaut2021scenario}
+Kaut, M. (2021).
+\newblock Scenario generation by selection from historical data.
+\newblock {\em Computational Management Science}, 18(3):411--429.
+
+\bibitem[L{\"o}hndorf, 2016]{lohndorf2016empirical}
+L{\"o}hndorf, N. (2016).
+\newblock An empirical analysis of scenario generation methods for stochastic optimization.
+\newblock {\em European Journal of Operational Research}, 255(1):121--132.
+
+\bibitem[Oliveira and Hamacher, 2012]{oliveira2012optimization}
+Oliveira, F. and Hamacher, S. (2012).
+\newblock Optimization of the petroleum product supply chain under uncertainty: A case study in northern brazil.
+\newblock {\em Industrial \& Engineering Chemistry Research}, 51(11):4279--4287.
+
+\bibitem[Oliveira et~al., 2016]{oliveira2016framework}
+Oliveira, F., Nunes, P.~M., Blajberg, R., and Hamacher, S. (2016).
+\newblock A framework for crude oil scheduling in an integrated terminal-refinery system under supply uncertainty.
+\newblock {\em European Journal of Operational Research}, 252(2):635--645.
+
+\bibitem[Pflug, 2001]{pflug2001scenario}
+Pflug, G.~C. (2001).
+\newblock Scenario tree generation for multiperiod financial optimization by optimal discretization.
+\newblock {\em Mathematical programming}, 89:251--271.
+
+\bibitem[R{\"o}misch, 2003]{romisch2003stability}
+R{\"o}misch, W. (2003).
+\newblock Stability of stochastic programming problems.
+\newblock {\em Handbooks in operations research and management science}, 10:483--554.
+
+\bibitem[Schultz, 2000]{schultz2000some}
+Schultz, R. (2000).
+\newblock Some aspects of stability in stochastic programming.
+\newblock {\em Annals of Operations Research}, 100:55--84.
+
+\bibitem[Shapiro and Homem-de Mello, 1998]{shapiro1998simulation}
+Shapiro, A. and Homem-de Mello, T. (1998).
+\newblock A simulation-based approach to two-stage stochastic programming with recourse.
+\newblock {\em Mathematical Programming}, 81(3):301--325.
+
+\end{thebibliography}

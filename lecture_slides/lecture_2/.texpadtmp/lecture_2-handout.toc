@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Scenario trees}{5}{0}{2}
+\beamer@sectionintoc {3}{Generating scenario trees}{7}{0}{3}
+\beamer@sectionintoc {4}{Scenario (tree) generation methods}{16}{0}{4}
+\beamer@sectionintoc {5}{Sample Average Approximation (SAA)}{24}{0}{5}

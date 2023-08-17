@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  16 AUG 2023 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  16 AUG 2023 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**lecture_1-annotated.tex
-(./lecture_1-annotated.tex
+**lecture_2-handout.tex
+(./lecture_2-handout.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -540,7 +540,7 @@ Package: amsthm 2020/05/29 v2.20.6
 \beamer@dimb=\dimen293
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/local/texlive/2023/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-) (../aux/../aux/slide_layout.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/../../aux/slide_layout.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -589,10 +589,10 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@matrix@numberofcolumns=\count341
 )
 \tikz@expandcount=\count342
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/psfrag/psfrag.sty
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/psfrag/psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count343
 \pfg@scount=\count344
@@ -793,31 +793,31 @@ File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 \c@proposition=\count364
-) (../aux/../aux/definitions.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/../../aux/definitions.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count365
 \l__pdf_internal_box=\box112
-) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-slide_content.aux))
-\openout1 = `lecture_1-annotated.aux'.
+) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-slide_content.aux))
+\openout1 = `lecture_2-handout.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -872,10 +872,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 23.
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.out) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.out)
+Package hyperref Info: Link coloring OFF on input line 18.
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.out) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.out)
 \@outlinefile=\write6
-\openout6 = `lecture_1-annotated.out'.
+\openout6 = `lecture_2-handout.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
@@ -892,69 +892,45 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.nav) [1
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.nav) [1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [2
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc) [2
 
 ]
-\openout2 = `lecture_1-slide_content.aux'.
+\openout2 = `lecture_2-slide_content.aux'.
 
- (./lecture_1-slide_content.tex (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [3
-
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+ (./lecture_2-slide_content.tex (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 27.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
-Overfull \vbox (12.25772pt too high) detected at line 27
+) [3
+
+
+]
+Overfull \vbox (7.59508pt too high) detected at line 80
  []
 
 [4
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \vbox (12.25772pt too high) detected at line 27
- []
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc) [5
 
-[5
+] [6
 
-]
-Overfull \vbox (8.40863pt too high) detected at line 53
- []
-
-[6
-
-]
-Overfull \vbox (8.40863pt too high) detected at line 53
- []
-
-[7
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc) [7
 
 ] [8
 
 ] [9
 
-]
-Overfull \vbox (14.05765pt too high) detected at line 122
- []
+] [10
 
-[10
-
-]
-Overfull \vbox (14.05765pt too high) detected at line 122
- []
-
-[11
+] [11
 
 ] [12
 
@@ -962,25 +938,72 @@ Overfull \vbox (14.05765pt too high) detected at line 122
 
 ] [14
 
-] [15
+]
+<figures/scen_stability.pdf, id=166, 889.3225pt x 256.96pt>
+File: figures/scen_stability.pdf Graphic file (type pdf)
+<use figures/scen_stability.pdf>
+Package pdftex.def Info: figures/scen_stability.pdf  used on input line 362.
+(pdftex.def)             Requested size: 341.43309pt x 98.65347pt.
+ [15
 
-] [16
+ <./figures/scen_stability.pdf>] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc) [16
 
 ] [17
 
 ] [18
 
-] [19
+]
+<figures/scen_methods(Lohndorf).pdf, id=214, 943.525pt x 251.94125pt>
+File: figures/scen_methods(Lohndorf).pdf Graphic file (type pdf)
+<use figures/scen_methods(Lohndorf).pdf>
+Package pdftex.def Info: figures/scen_methods(Lohndorf).pdf  used on input line 454.
+(pdftex.def)             Requested size: 341.43309pt x 91.17162pt.
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [20
+Overfull \vbox (7.42934pt too high) detected at line 454
+ []
+
+[19
+
+ <./figures/scen_methods(Lohndorf).pdf>] [20
 
 ] [21
 
-] [22
+]
+<figures/scenred.pdf, id=254, 722.7pt x 381.425pt>
+File: figures/scenred.pdf Graphic file (type pdf)
+<use figures/scenred.pdf>
+Package pdftex.def Info: figures/scenred.pdf  used on input line 513.
+(pdftex.def)             Requested size: 324.36038pt x 171.19151pt.
 
-] [23
+Overfull \vbox (8.77002pt too high) detected at line 513
+ []
 
-] [24
+[22
+
+ <./figures/scenred.pdf>]
+<figures/stdev_cost_in.pdf, id=276, 348.30125pt x 200.75pt>
+File: figures/stdev_cost_in.pdf Graphic file (type pdf)
+<use figures/stdev_cost_in.pdf>
+Package pdftex.def Info: figures/stdev_cost_in.pdf  used on input line 535.
+(pdftex.def)             Requested size: 161.32649pt x 92.98325pt.
+
+Overfull \hbox (7.68265pt too wide) in paragraph at lines 535--535
+[][] 
+ []
+
+<figures/stdev_cost_out.pdf, id=277, 350.30875pt x 199.74625pt>
+File: figures/stdev_cost_out.pdf Graphic file (type pdf)
+<use figures/stdev_cost_out.pdf>
+Package pdftex.def Info: figures/stdev_cost_out.pdf  used on input line 535.
+(pdftex.def)             Requested size: 161.32649pt x 91.99106pt.
+
+Overfull \hbox (7.68265pt too wide) in paragraph at lines 535--535
+[][] 
+ []
+
+[23
+
+ <./figures/stdev_cost_in.pdf> <./figures/stdev_cost_out.pdf>] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.toc) [24
 
 ] [25
 
@@ -990,7 +1013,7 @@ Overfull \vbox (14.05765pt too high) detected at line 122
 
 ] [28
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [29
+] [29
 
 ] [30
 
@@ -1000,79 +1023,70 @@ Overfull \vbox (14.05765pt too high) detected at line 122
 
 ] [33
 
-] [34
+]
+<figures/Monte_carlo.pdf, id=370, 262.9825pt x 228.855pt>
+File: figures/Monte_carlo.pdf Graphic file (type pdf)
+<use figures/Monte_carlo.pdf>
+Package pdftex.def Info: figures/Monte_carlo.pdf  used on input line 797.
+(pdftex.def)             Requested size: 104.3071pt x 90.77213pt.
+<figures/quasi_mc.pdf, id=371, 246.9225pt x 228.855pt>
+File: figures/quasi_mc.pdf Graphic file (type pdf)
+<use figures/quasi_mc.pdf>
+Package pdftex.def Info: figures/quasi_mc.pdf  used on input line 797.
+(pdftex.def)             Requested size: 104.3071pt x 96.67368pt.
 
-] [35
+Overfull \vbox (9.5493pt too high) detected at line 797
+ []
 
-] [36
+[34
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [37
+ <./figures/Monte_carlo.pdf> <./figures/quasi_mc.pdf>] [35
+
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.bbl) [36
+
+ </usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [37
+
 
 ] [38
 
+
 ] [39
+
 
 ] [40
 
+
 ] [41
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.toc) [42
 
-] [43
-
-] [44
-
-] [45
-
-]
-Overfull \vbox (8.73958pt too high) detected at line 589
- []
-
-[46
-
-]
-Overfull \vbox (8.73958pt too high) detected at line 589
- []
-
-[47
-
-]
-Overfull \vbox (8.73958pt too high) detected at line 589
- []
-
-[48
-
-] [49
-
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.bbl) [50
-
- </usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>])
+])
 \tf@nav=\write7
-\openout7 = `lecture_1-annotated.nav'.
+\openout7 = `lecture_2-handout.nav'.
 
 \tf@toc=\write8
-\openout8 = `lecture_1-annotated.toc'.
+\openout8 = `lecture_2-handout.toc'.
 
 \tf@snm=\write9
-\openout9 = `lecture_1-annotated.snm'.
+\openout9 = `lecture_2-handout.snm'.
 
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-slide_content.aux))
-Package rerunfilecheck Info: File `lecture_1-annotated.out' has not changed.
-(rerunfilecheck)             Checksum: 71D5C79B0085EB1CA79E1E4A54BDC339;797.
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-slide_content.aux))
+Package rerunfilecheck Info: File `lecture_2-handout.out' has not changed.
+(rerunfilecheck)             Checksum: 1486005E4F3C7524E679A1FA670D6129;849.
  ) 
 Here is how much of TeX's memory you used:
- 32644 strings out of 476025
- 698397 string characters out of 5790017
- 1869388 words of memory out of 5000000
- 52293 multiletter control sequences out of 15000+600000
- 524226 words of font info for 77 fonts, out of 8000000 for 9000
+ 33130 strings out of 476025
+ 710114 string characters out of 5790017
+ 1871388 words of memory out of 5000000
+ 52779 multiletter control sequences out of 15000+600000
+ 523552 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,13n,104p,394b,953s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-annotated.pdf" (50 pages, 304013 bytes).
+ 101i,19n,104p,392b,1432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.pdf" (41 pages, 1472846 bytes).
 PDF statistics:
- 558 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
- 111 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 580 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
