@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_3/.texpadtmp/lecture_3-annotated.aux
+A level-1 auxiliary file: lecture_3-slide_content.aux
+The style file: apalike.bst
+Database file #1: ../../aux/references.bib
+I was expecting a `,' or a `}'---line 68 of file ../../aux/references.bib
+ : 
+ : @article{dupavcova1990stability,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 9 entries,
+            1935 wiz_defined-function locations,
+            537 strings with 5590 characters,
+and the built_in function-call counts, 3689 in all, are:
+= -- 369
+> -- 146
+< -- 5
++ -- 50
+- -- 48
+* -- 338
+:= -- 642
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 69
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 125
+empty$ -- 258
+format.name$ -- 65
+if$ -- 705
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 27
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 96
+stack$ -- 0
+substring$ -- 301
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 0
+while$ -- 34
+width$ -- 0
+write$ -- 118
+(There was 1 error message)

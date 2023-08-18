@@ -1,3 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Scenario generation methods}{15}{0}{2}
-\beamer@sectionintoc {3}{Sample Average Approximation (SAA)}{16}{0}{3}

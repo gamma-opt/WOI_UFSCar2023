@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[Ben-Tal et~al., 2005]{ben2005retailer}
+Ben-Tal, A., Golany, B., Nemirovski, A., and Vial, J.-P. (2005).
+\newblock Retailer-supplier flexible commitments contracts: A robust optimization approach.
+\newblock {\em Manufacturing \& Service Operations Management}, 7(3):248--271.
+
+\bibitem[Ben-Tal et~al., 2004]{ben2004adjustable}
+Ben-Tal, A., Goryashko, A., Guslitzer, E., and Nemirovski, A. (2004).
+\newblock Adjustable robust solutions of uncertain linear programs.
+\newblock {\em Mathematical programming}, 99(2):351--376.
+
+\bibitem[Ben-Tal and Nemirovski, 1999]{ben1999robust}
+Ben-Tal, A. and Nemirovski, A. (1999).
+\newblock Robust solutions of uncertain linear programs.
+\newblock {\em Operations research letters}, 25(1):1--13.
+
+\bibitem[Bertsimas and Sim, 2004]{bertsimas2004price}
+Bertsimas, D. and Sim, M. (2004).
+\newblock The price of robustness.
+\newblock {\em Operations research}, 52(1):35--53.
+
+\bibitem[Mulvey et~al., 1995]{mulvey1995robust}
+Mulvey, J.~M., Vanderbei, R.~J., and Zenios, S.~A. (1995).
+\newblock Robust optimization of large-scale systems.
+\newblock {\em Operations research}, 43(2):264--281.
+
+\bibitem[Rintam{\"a}ki et~al., 2023]{rintamaki2023achieving}
+Rintam{\"a}ki, T., Oliveira, F., Siddiqui, A.~S., and Salo, A. (2023).
+\newblock Achieving emission-reduction goals: Multi-period power-system expansion under short-term operational uncertainty.
+\newblock {\em IEEE Transactions on Power Systems}.
+
+\bibitem[Soyster, 1973]{soyster1973convex}
+Soyster, A.~L. (1973).
+\newblock Convex programming with set-inclusive constraints and applications to inexact linear programming.
+\newblock {\em Operations research}, 21(5):1154--1157.
+
+\bibitem[Van~Slyke and Wets, 1969]{van1969shaped}
+Van~Slyke, R.~M. and Wets, R. (1969).
+\newblock L-shaped linear programs with applications to optimal control and stochastic programming.
+\newblock {\em SIAM journal on applied mathematics}, 17(4):638--663.
+
+\bibitem[Zeng and Zhao, 2013]{zeng2013solving}
+Zeng, B. and Zhao, L. (2013).
+\newblock Solving two-stage robust optimization problems using a column-and-constraint generation method.
+\newblock {\em Operations Research Letters}, 41(5):457--461.
+
+\end{thebibliography}

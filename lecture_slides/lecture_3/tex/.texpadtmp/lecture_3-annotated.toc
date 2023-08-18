@@ -1,3 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Robust optimisation}{8}{0}{2}
-\beamer@sectionintoc {3}{Adjustable robust optimisation}{29}{0}{3}
