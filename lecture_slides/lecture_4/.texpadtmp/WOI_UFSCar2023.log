@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  21 AUG 2023 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  18 AUG 2023 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**lecture_1-handout.tex
-(./lecture_1-handout.tex
+**WOI_UFSCar2023.tex
+(./WOI_UFSCar2023.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -200,9 +200,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -538,9 +536,7 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/local/texlive/2023/texmf-dist/tex/latex/import/import.sty
-Package: import 2020/04/01  v 6.2
-) (../aux/../aux/slide_layout.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -591,187 +587,103 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count342
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/psfrag/psfrag.sty
-Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count343
-\pfg@scount=\count344
-\pfg@temp=\write5
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/blkarray/blkarray.sty
-Package: blkarray 2015/02/27 v0.07 Block array (dpc)
-\c@BAenumi=\count345
-\BA@col=\count346
-\BA@block@cnt=\count347
-\BA@final@box=\box81
-\BA@first@box=\box82
-\BA@colsep=\dimen307
-\BA@ftn=\toks47
-\BAextrarowheight=\dimen308
-\BAextraheightafterhline=\dimen309
-\BAarrayrulewidth=\dimen310
-\BAdoublerulesep=\dimen311
-\BAfootskip=\dimen312
-\BA@dashbox=\box83
-\BA@ddashbox=\box84
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/algorithms/algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count348
-\float@exts=\toks48
-\float@box=\box85
-\@float@everytoks=\toks49
-\@floatcapt=\box86
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-\@float@every@algorithm=\toks50
-\c@algorithm=\count349
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
-Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
-
-Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count350
-\c@ALG@rem=\count351
-\c@ALG@nested=\count352
-\ALG@tlm=\skip65
-\ALG@thistlm=\skip66
-\c@ALG@Lnr=\count353
-\c@ALG@blocknr=\count354
-\c@ALG@storecount=\count355
-\c@ALG@tmpcounter=\count356
-\ALG@tmplength=\skip67
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
-Package: algpseudocode 
-
-Document Style - pseudocode environments for use with the `algorithmicx' style
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen307
+\lightrulewidth=\dimen308
+\cmidrulewidth=\dimen309
+\belowrulesep=\dimen310
+\belowbottomsep=\dimen311
+\aboverulesep=\dimen312
+\abovetopsep=\dimen313
+\cmidrulesep=\dimen314
+\cmidrulekern=\dimen315
+\defaultaddspace=\dimen316
+\@cmidla=\count343
+\@cmidlb=\count344
+\@aboverulesep=\dimen317
+\@belowrulesep=\dimen318
+\@thisruleclass=\count345
+\@lastruleclass=\count346
+\@thisrulewidth=\dimen319
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen313
-\captionmargin=\dimen314
-\caption@leftmargin=\dimen315
-\caption@rightmargin=\dimen316
-\caption@width=\dimen317
-\caption@indent=\dimen318
-\caption@parindent=\dimen319
-\caption@hangindent=\dimen320
+\caption@tempdima=\dimen320
+\captionmargin=\dimen321
+\caption@leftmargin=\dimen322
+\caption@rightmargin=\dimen323
+\caption@width=\dimen324
+\caption@indent=\dimen325
+\caption@parindent=\dimen326
+\caption@hangindent=\dimen327
 Package caption Info: beamer document class detected.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count357
-\c@continuedfloat=\count358
-Package caption Info: float package is loaded.
+\c@caption@flags=\count347
+\c@continuedfloat=\count348
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count349
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count350
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen321
-\ar@mcellbox=\box87
-\extrarowheight=\dimen322
-\NC@list=\toks51
-\extratabsurround=\skip68
-\backup@length=\skip69
-\ar@cellbox=\box88
+\col@sep=\dimen328
+\ar@mcellbox=\box81
+\extrarowheight=\dimen329
+\NC@list=\toks47
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box82
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip67
+\bibsep=\skip68
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count351
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen330
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen331
+\pgfdecoratedremainingdistance=\dimen332
+\pgfdecoratedinputsegmentcompleteddistance=\dimen333
+\pgfdecoratedinputsegmentremainingdistance=\dimen334
+\pgf@decorate@distancetomove=\dimen335
+\pgf@decorate@repeatstate=\count352
+\pgfdecorationsegmentamplitude=\dimen336
+\pgfdecorationsegmentlength=\dimen337
 )
-\everycr=\toks52
-\minrowclearance=\skip70
-\rownum=\count359
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
-Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count360
-Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count361
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count362
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen323
-\pgfarrowlength=\dimen324
-\pgfarrowwidth=\dimen325
-\pgfarrowlinewidth=\dimen326
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex
-File: tikzlibraryautomata.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box89
-\pgfnodeparttwobox=\box90
-\pgfnodepartthreebox=\box91
-\pgfnodepartfourbox=\box92
-\pgfnodeparttwentybox=\box93
-\pgfnodepartnineteenbox=\box94
-\pgfnodeparteighteenbox=\box95
-\pgfnodepartseventeenbox=\box96
-\pgfnodepartsixteenbox=\box97
-\pgfnodepartfifteenbox=\box98
-\pgfnodepartfourteenbox=\box99
-\pgfnodepartthirteenbox=\box100
-\pgfnodeparttwelvebox=\box101
-\pgfnodepartelevenbox=\box102
-\pgfnodeparttenbox=\box103
-\pgfnodepartninebox=\box104
-\pgfnodeparteightbox=\box105
-\pgfnodepartsevenbox=\box106
-\pgfnodepartsixbox=\box107
-\pgfnodepartfivebox=\box108
-))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryer.code.tex
-File: tikzlibraryer.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@dec@box=\box83
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@layerbox@background=\box109
-\pgf@layerboxsaved@background=\box110
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymindmap.code.tex
-File: tikzlibrarymindmap.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen327
-\pgfdecoratedremainingdistance=\dimen328
-\pgfdecoratedinputsegmentcompleteddistance=\dimen329
-\pgfdecoratedinputsegmentremainingdistance=\dimen330
-\pgf@decorate@distancetomove=\dimen331
-\pgf@decorate@repeatstate=\count363
-\pgfdecorationsegmentamplitude=\dimen332
-\pgfdecorationsegmentlength=\dimen333
-)
-\tikz@lib@dec@box=\box111
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfolding.code.tex
-File: tikzlibraryfolding.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\tikz@lib@fold@length=\dimen334
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
-File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
-File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarysnakes.code.tex
-File: tikzlibrarysnakes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-
-Package pgf Warning: Snakes have been superseded by decorations. Please use the decoration libraries instead of the snakes library on input line 14.
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.shapes.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.shapes.code.tex))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -779,45 +691,62 @@ File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
-File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen335
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarythrough.code.tex
-File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-\c@proposition=\count364
-) (../aux/../aux/definitions.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box84
+\pgfnodeparttwobox=\box85
+\pgfnodepartthreebox=\box86
+\pgfnodepartfourbox=\box87
+\pgfnodeparttwentybox=\box88
+\pgfnodepartnineteenbox=\box89
+\pgfnodeparteighteenbox=\box90
+\pgfnodepartseventeenbox=\box91
+\pgfnodepartsixteenbox=\box92
+\pgfnodepartfifteenbox=\box93
+\pgfnodepartfourteenbox=\box94
+\pgfnodepartthirteenbox=\box95
+\pgfnodeparttwelvebox=\box96
+\pgfnodepartelevenbox=\box97
+\pgfnodeparttenbox=\box98
+\pgfnodepartninebox=\box99
+\pgfnodeparteightbox=\box100
+\pgfnodepartsevenbox=\box101
+\pgfnodepartsixbox=\box102
+\pgfnodepartfivebox=\box103
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (./defs.tex
+\c@remark=\count353
+\c@assumption=\count354
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemestructure.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count365
-\l__pdf_internal_box=\box112
-) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-slide_content.aux))
-\openout1 = `lecture_1-handout.aux'.
+\l__color_backend_stack_int=\count355
+\l__pdf_internal_box=\box104
+) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.aux)
+\openout1 = `WOI_UFSCar2023.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -855,27 +784,33 @@ LaTeX Font Info:    ... okay on input line 18.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count366
-\scratchdimen=\dimen336
-\scratchbox=\box113
-\nofMPsegments=\count367
-\nofMParguments=\count368
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count369
-\MPscratchDim=\dimen337
-\MPnumerator=\count370
-\makeMPintoPDFobject=\count371
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count356
+\scratchdimen=\dimen338
+\scratchbox=\box105
+\nofMPsegments=\count357
+\nofMParguments=\count358
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count359
+\MPscratchDim=\dimen339
+\MPnumerator=\count360
+\makeMPintoPDFobject=\count361
+\everyMPtoPDFconversion=\toks49
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.out) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.out)
-\@outlinefile=\write6
-\openout6 = `lecture_1-handout.out'.
+Package hyperref Info: Link coloring OFF on input line 96.
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.out) (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.out)
+\@outlinefile=\write5
+\openout5 = `WOI_UFSCar2023.out'.
 
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
@@ -892,47 +827,72 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.nav) [1
-Non-PDF special ignored!
-<special> header=psfrag.pro
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.nav)
+<Figures/aaltologo.png, id=37, 78.0516pt x 64.5612pt>
+File: Figures/aaltologo.png Graphic file (type png)
+<use Figures/aaltologo.png>
+Package pdftex.def Info: Figures/aaltologo.png  used on input line 104.
+(pdftex.def)             Requested size: 55.03828pt x 45.52458pt.
+<Figures/complete_logo.png, id=39, 1324.4682pt x 557.9244pt>
+File: Figures/complete_logo.png Graphic file (type png)
+<use Figures/complete_logo.png>
+Package pdftex.def Info: Figures/complete_logo.png  used on input line 104.
+(pdftex.def)             Requested size: 108.06143pt x 45.52458pt.
+ [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc) [2
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Figures/aaltologo.png> <./Figures/complete_logo.png>]
+<Figures/JA.png, id=51, 323.70938pt x 307.90031pt>
+File: Figures/JA.png Graphic file (type png)
+<use Figures/JA.png>
+Package pdftex.def Info: Figures/JA.png  used on input line 121.
+(pdftex.def)             Requested size: 59.75095pt x 56.8291pt.
+<Figures/OH.jpeg, id=53, 271.0125pt x 271.0125pt>
+File: Figures/OH.jpeg Graphic file (type jpg)
+<use Figures/OH.jpeg>
+Package pdftex.def Info: Figures/OH.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 59.75095pt x 59.74698pt.
+<Figures/HH.jpeg, id=55, 271.0125pt x 271.0125pt>
+File: Figures/HH.jpeg Graphic file (type jpg)
+<use Figures/HH.jpeg>
+Package pdftex.def Info: Figures/HH.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 65.44142pt x 58.57083pt.
+<Figures/TT.jpeg, id=57, 271.0125pt x 271.0125pt>
+File: Figures/TT.jpeg Graphic file (type jpg)
+<use Figures/TT.jpeg>
+Package pdftex.def Info: Figures/TT.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 65.44142pt x 65.44138pt.
+<Figures/TE.jpeg, id=59, 513.92pt x 513.92pt>
+File: Figures/TE.jpeg Graphic file (type jpg)
+<use Figures/TE.jpeg>
+Package pdftex.def Info: Figures/TE.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 62.59596pt x 59.12766pt.
+<Figures/AS.jpg, id=61, 272.51813pt x 347.79938pt>
+File: Figures/AS.jpg Graphic file (type jpg)
+<use Figures/AS.jpg>
+Package pdftex.def Info: Figures/AS.jpg  used on input line 121.
+(pdftex.def)             Requested size: 56.9055pt x 66.67981pt.
+<Figures/FO.jpg, id=63, 513.92pt x 513.92pt>
+File: Figures/FO.jpg Graphic file (type jpg)
+<use Figures/FO.jpg>
+Package pdftex.def Info: Figures/FO.jpg  used on input line 121.
+(pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
+ [2
+
+ <./Figures/JA.png> <./Figures/OH.jpeg> <./Figures/HH.jpeg> <./Figures/TT.jpeg> <./Figures/TE.jpeg> <./Figures/AS.jpg> <./Figures/FO.jpg>] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [3
+
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [4
 
 ]
-\openout2 = `lecture_1-slide_content.aux'.
-
- (./lecture_1-slide_content.tex (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 182.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 182.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 27.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
-Overfull \vbox (12.25772pt too high) detected at line 27
- []
+) [5
 
-[3
-
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \vbox (8.40863pt too high) detected at line 53
- []
-
-[4
-
-] [5
-
-]
-Overfull \vbox (14.05765pt too high) detected at line 122
- []
-
-[6
+] [6
 
 ] [7
 
@@ -944,65 +904,196 @@ Overfull \vbox (14.05765pt too high) detected at line 122
 
 ] [11
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc) [12
+] [12
 
 ] [13
 
-] [14
+]
+(/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [14
 
 ] [15
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc) [16
+] [16
 
 ] [17
 
 ] [18
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc) [19
+] [19
 
 ] [20
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.toc) [21
+] [21
 
 ] [22
 
-]
-Overfull \vbox (8.73958pt too high) detected at line 589
- []
-
-[23
+] [23
 
 ] [24
 
-] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.bbl) [25
+]
+Overfull \hbox (0.46245pt too wide) detected at line 353
+[][]\U/msb/m/n/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s[] []\OMS/cmsy/m/n/10 j []\OML/cmm/m/it/10 Z\OT1/cmr/m/n/10 ) = [] [] \U/msb/m/n/10 P[]\OML/cmm/m/it/10 X[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 s[] []\OMS/cmsy/m/n/10 j []\OML/cmm/m/it/10 X[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 s[][][][] [] \U/msb/m/n/10 I[]\OML/cmm/m/it/10 Z[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s[]\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 s[][][];[]
+ []
 
- </usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>])
-\tf@nav=\write7
-\openout7 = `lecture_1-handout.nav'.
+[25
 
-\tf@toc=\write8
-\openout8 = `lecture_1-handout.toc'.
+]
+Overfull \vbox (8.99278pt too high) detected at line 391
+ []
 
-\tf@snm=\write9
-\openout9 = `lecture_1-handout.snm'.
+[26
 
- (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.aux (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-slide_content.aux))
-Package rerunfilecheck Info: File `lecture_1-handout.out' has not changed.
-(rerunfilecheck)             Checksum: 71D5C79B0085EB1CA79E1E4A54BDC339;797.
+]
+Overfull \vbox (8.99278pt too high) detected at line 391
+ []
+
+[27
+
+]
+Overfull \vbox (8.99278pt too high) detected at line 391
+ []
+
+[28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 480.
+
+[33
+
+]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 480.
+
+[34
+
+] [35
+
+] [36
+
+] [37
+
+] [38
+
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [39
+
+] [40
+
+] [41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
+
+]
+<Figures/plot_cvar_util.pdf, id=428, 1204.5pt x 803.0pt>
+File: Figures/plot_cvar_util.pdf Graphic file (type pdf)
+<use Figures/plot_cvar_util.pdf>
+Package pdftex.def Info: Figures/plot_cvar_util.pdf  used on input line 832.
+(pdftex.def)             Requested size: 256.07481pt x 170.71794pt.
+
+Overfull \vbox (3.99644pt too high) detected at line 832
+ []
+
+[46
+
+ <./Figures/plot_cvar_util.pdf>] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [47
+
+] [48
+
+] [49
+
+] [50
+
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.toc) [51
+
+] [52
+
+]
+Overfull \vbox (12.80249pt too high) detected at line 1123
+ []
+
+[53
+
+] [54
+
+] [55
+
+]
+<figures/sol_times_pigfarm.pdf, id=512, 602.25pt x 401.5pt>
+File: figures/sol_times_pigfarm.pdf Graphic file (type pdf)
+<use figures/sol_times_pigfarm.pdf>
+Package pdftex.def Info: figures/sol_times_pigfarm.pdf  used on input line 1230.
+(pdftex.def)             Requested size: 163.88641pt x 109.25801pt.
+<figures/sol_times_nmonitoring.pdf, id=513, 602.25pt x 401.5pt>
+File: figures/sol_times_nmonitoring.pdf Graphic file (type pdf)
+<use figures/sol_times_nmonitoring.pdf>
+Package pdftex.def Info: figures/sol_times_nmonitoring.pdf  used on input line 1230.
+(pdftex.def)             Requested size: 163.88641pt x 109.25801pt.
+
+Overfull \vbox (7.77402pt too high) detected at line 1230
+ []
+
+[56
+
+ <./figures/sol_times_pigfarm.pdf> <./figures/sol_times_nmonitoring.pdf>]
+File: Figures/aaltologo.png Graphic file (type png)
+<use Figures/aaltologo.png>
+Package pdftex.def Info: Figures/aaltologo.png  used on input line 1241.
+(pdftex.def)             Requested size: 55.03828pt x 45.52458pt.
+File: Figures/complete_logo.png Graphic file (type png)
+<use Figures/complete_logo.png>
+Package pdftex.def Info: Figures/complete_logo.png  used on input line 1241.
+(pdftex.def)             Requested size: 108.06143pt x 45.52458pt.
+ [57
+
+] (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\translate ' on input line 1.
+
+) [58
+
+]
+\tf@nav=\write6
+\openout6 = `WOI_UFSCar2023.nav'.
+
+\tf@toc=\write7
+\openout7 = `WOI_UFSCar2023.toc'.
+
+\tf@snm=\write8
+\openout8 = `WOI_UFSCar2023.snm'.
+
+ (/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.aux)
+Package rerunfilecheck Info: File `WOI_UFSCar2023.out' has not changed.
+(rerunfilecheck)             Checksum: 55BE788D653AF76D00A2352CC0AC59CC;752.
  ) 
 Here is how much of TeX's memory you used:
- 32583 strings out of 476025
- 697749 string characters out of 5790017
+ 30692 strings out of 476025
+ 640347 string characters out of 5790017
  1869388 words of memory out of 5000000
- 52282 multiletter control sequences out of 15000+600000
- 524226 words of font info for 77 fonts, out of 8000000 for 9000
+ 50374 multiletter control sequences out of 15000+600000
+ 527344 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,13n,104p,392b,950s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb>
-Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_1/.texpadtmp/lecture_1-handout.pdf" (25 pages, 270473 bytes).
+ 101i,13n,104p,389b,1046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_4/.texpadtmp/WOI_UFSCar2023.pdf" (58 pages, 1347084 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 679 PDF objects out of 1000 (max. 8388607)
+ 535 compressed objects within 6 object streams
+ 149 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

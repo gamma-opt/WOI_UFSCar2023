@@ -399,19 +399,20 @@
 \begin{frame}{Scenario generation methods}{Metric-based methods}
 
 	Probability-metric based methods use the following result {\small \cite{pflug2001scenario}}
+	%
 	\begin{equation*}
 		e(\eta, \xi_k) \le K d(\eta, \xi_k)	
 	\end{equation*}
-
+	%
 	where $K$ is a (Lipschitz-related) constant and $d$ is a \alert{Wasserstein distance} between $\eta$ and $\xi_k$. Thus, the focus is on obtaining trees that \alert{minimise} $d$.
 	
 	\pause
-	Let $\xi^l = (z^l, p^l) \in \Xi^l$. The Wasserstein distance $d(\xi^1,\xi^2)$ is given by:
+	Let $\xi^l = (z^l, p^l) \in \Xi^l$. The ($p$-order) Wasserstein distance $d(\xi^1,\xi^2)$ is given by:
 	\begin{columns}
 	\column{0.45\textwidth}
 	\begin{equation*}
 		\begin{aligned}
-			\mini_{\pi} & \sum_{i \in \xi^1, j \in \xi^2} ||z^1_i - z^2_j||^r \pi_{ij} \\
+			\mini_{\pi} & \sum_{i \in \xi^1, j \in \xi^2} ||z^1_i - z^2_j||_p \pi_{ij} \\
 			\st & \sum_{j \in \xi^2} \pi_{ij} = p^1_i, \ \forall i \in \xi_1 \\ 
 						  & \sum_{i \in \xi^1} \pi_{ij} = p^2_j, \ \forall j \in \xi_2.
 		\end{aligned}

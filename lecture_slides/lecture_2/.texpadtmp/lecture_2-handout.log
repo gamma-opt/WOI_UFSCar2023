@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  16 AUG 2023 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  21 AUG 2023 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -950,16 +950,20 @@ Package pdftex.def Info: figures/scen_stability.pdf  used on input line 362.
 
 ] [17
 
-] [18
+]
+Overfull \vbox (4.20303pt too high) detected at line 438
+ []
+
+[18
 
 ]
 <figures/scen_methods(Lohndorf).pdf, id=214, 943.525pt x 251.94125pt>
 File: figures/scen_methods(Lohndorf).pdf Graphic file (type pdf)
 <use figures/scen_methods(Lohndorf).pdf>
-Package pdftex.def Info: figures/scen_methods(Lohndorf).pdf  used on input line 454.
+Package pdftex.def Info: figures/scen_methods(Lohndorf).pdf  used on input line 455.
 (pdftex.def)             Requested size: 341.43309pt x 91.17162pt.
 
-Overfull \vbox (7.42934pt too high) detected at line 454
+Overfull \vbox (7.42934pt too high) detected at line 455
  []
 
 [19
@@ -972,10 +976,10 @@ Overfull \vbox (7.42934pt too high) detected at line 454
 <figures/scenred.pdf, id=254, 722.7pt x 381.425pt>
 File: figures/scenred.pdf Graphic file (type pdf)
 <use figures/scenred.pdf>
-Package pdftex.def Info: figures/scenred.pdf  used on input line 513.
+Package pdftex.def Info: figures/scenred.pdf  used on input line 514.
 (pdftex.def)             Requested size: 324.36038pt x 171.19151pt.
 
-Overfull \vbox (8.77002pt too high) detected at line 513
+Overfull \vbox (8.77002pt too high) detected at line 514
  []
 
 [22
@@ -984,20 +988,20 @@ Overfull \vbox (8.77002pt too high) detected at line 513
 <figures/stdev_cost_in.pdf, id=276, 348.30125pt x 200.75pt>
 File: figures/stdev_cost_in.pdf Graphic file (type pdf)
 <use figures/stdev_cost_in.pdf>
-Package pdftex.def Info: figures/stdev_cost_in.pdf  used on input line 535.
+Package pdftex.def Info: figures/stdev_cost_in.pdf  used on input line 536.
 (pdftex.def)             Requested size: 161.32649pt x 92.98325pt.
 
-Overfull \hbox (7.68265pt too wide) in paragraph at lines 535--535
+Overfull \hbox (7.68265pt too wide) in paragraph at lines 536--536
 [][] 
  []
 
 <figures/stdev_cost_out.pdf, id=277, 350.30875pt x 199.74625pt>
 File: figures/stdev_cost_out.pdf Graphic file (type pdf)
 <use figures/stdev_cost_out.pdf>
-Package pdftex.def Info: figures/stdev_cost_out.pdf  used on input line 535.
+Package pdftex.def Info: figures/stdev_cost_out.pdf  used on input line 536.
 (pdftex.def)             Requested size: 161.32649pt x 91.99106pt.
 
-Overfull \hbox (7.68265pt too wide) in paragraph at lines 535--535
+Overfull \hbox (7.68265pt too wide) in paragraph at lines 536--536
 [][] 
  []
 
@@ -1027,15 +1031,15 @@ Overfull \hbox (7.68265pt too wide) in paragraph at lines 535--535
 <figures/Monte_carlo.pdf, id=370, 262.9825pt x 228.855pt>
 File: figures/Monte_carlo.pdf Graphic file (type pdf)
 <use figures/Monte_carlo.pdf>
-Package pdftex.def Info: figures/Monte_carlo.pdf  used on input line 797.
+Package pdftex.def Info: figures/Monte_carlo.pdf  used on input line 798.
 (pdftex.def)             Requested size: 104.3071pt x 90.77213pt.
 <figures/quasi_mc.pdf, id=371, 246.9225pt x 228.855pt>
 File: figures/quasi_mc.pdf Graphic file (type pdf)
 <use figures/quasi_mc.pdf>
-Package pdftex.def Info: figures/quasi_mc.pdf  used on input line 797.
+Package pdftex.def Info: figures/quasi_mc.pdf  used on input line 798.
 (pdftex.def)             Requested size: 104.3071pt x 96.67368pt.
 
-Overfull \vbox (9.5493pt too high) detected at line 797
+Overfull \vbox (9.5493pt too high) detected at line 798
  []
 
 [34
@@ -1083,7 +1087,7 @@ Here is how much of TeX's memory you used:
  101i,19n,104p,392b,1432s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/202
 3/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.pdf" (41 pages, 1472846 bytes).
+Output written on "/Users/pinheif2/Dropbox (Aalto)/Aalto/Courses/Optimisation under Uncertainty/WOI_UFSCar2023/lecture_slides/lecture_2/.texpadtmp/lecture_2-handout.pdf" (41 pages, 1472714 bytes).
 PDF statistics:
  580 PDF objects out of 1000 (max. 8388607)
  415 compressed objects within 5 object streams

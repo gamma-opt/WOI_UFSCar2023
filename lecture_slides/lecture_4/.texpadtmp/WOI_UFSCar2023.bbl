@@ -1,0 +1,18 @@
+\begin{thebibliography}{}
+
+\bibitem[Lauritzen and Nilsson, 2001]{lauritzen2001}
+Lauritzen, S.~L. and Nilsson, D. (2001).
+\newblock Representing and solving decision problems with limited information.
+\newblock {\em Management Science}, 47(9):1235--1251.
+
+\bibitem[Mau{\'a} et~al., 2014]{maua2014}
+Mau{\'a}, D.~D., De~Campos, C.~P., Benavoli, A., and Antonucci, A. (2014).
+\newblock Probabilistic inference in credal networks: new complexity results.
+\newblock {\em Journal of Artificial Intelligence Research}, 50:603--637.
+
+\bibitem[Mau{\'a} et~al., 2013]{maua2013}
+Mau{\'a}, D.~D., De~Campos, C.~P., and Zaffalon, M. (2013).
+\newblock On the complexity of solving polytree-shaped limited memory influence diagrams with binary variables.
+\newblock {\em Artificial Intelligence}, 205:30--38.
+
+\end{thebibliography}
